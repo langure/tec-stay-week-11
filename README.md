@@ -27,6 +27,8 @@ Transfer learning allows the model to take advantage of the general language und
 # Readings
 
 [Transfer learning](https://ftp.cs.wisc.edu/machine-learning/shavlik-group/torrey.handbook09.pdf)
+
+
 [Emotion detection in text: a review](https://arxiv.org/pdf/1806.00674.pdf)
 
 # Code examples
