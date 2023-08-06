@@ -35,7 +35,7 @@ Transfer learning allows the model to take advantage of the general language und
 
 # Transfer learning
 
-transfer.py
+# transfer.py
 
 Step 1: Data Preprocessing
 
@@ -67,7 +67,7 @@ Finally, we display the training loss for each epoch during training and the acc
 
 # Text emotion detection 
 
-ted.py
+# ted.py
 
 Step 1: Loading the Pre-trained BERT Model and Tokenizer
 
@@ -93,7 +93,7 @@ Step 6: Testing the Model
 
 We test the model's performance using some sample texts. We call the detect_emotion function for each text and print the original text along with the detected emotion for each sample.
 
-ted_go_emotions.py
+# ted_go_emotions.py
 
 Step 1: Importing Libraries
 
